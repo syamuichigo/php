@@ -1,0 +1,40 @@
+.answer-content{
+    margin: 0 auto;
+    padding: 60px 15px;
+    max-width: 1230px;
+}
+.answer{
+    text-align: center;
+}
+.answer__text{
+    font-size: 50px;
+    font-weight: bold;
+}
+.description{
+    border: 1px solid black;
+    width: 100%;
+}
+.description__answer{
+
+}
+.description-header{
+    border-bottom: 1px solid black;
+    padding: 15px;
+    width: 20%;
+    font-weight: bold;
+}
+.description-text{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    padding: 15px;
+}
+.back-button{
+    background: blue;
+    border-radius: 10px;
+    padding: 20px 60px;
+    text-align: right;
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    font-size: 30px;
+}
